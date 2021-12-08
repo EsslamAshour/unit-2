@@ -9,3 +9,19 @@
 2. ![](https://i.imgur.com/IKVVTto.png)
 3. ![](https://i.imgur.com/ExbRTZl.png)
 4. ![](https://i.imgur.com/Q120NZe.png)
+
+# 3 - Simplify K-maps and write the equations
+1. ![](https://i.imgur.com/41UVaM1.png)
+Equation: (not A.B) + B.C
+
+2. ![](https://i.imgur.com/4xkcFlx.png)
+Equation: (notA.B) + (A.notB) + BC
+
+3. ![](https://i.imgur.com/fsK3saq.png)
+Equation: (notA.notB) + (A.notB)
+
+4. ![](https://i.imgur.com/wVewAdO.png)
+Equation: AB + notC
+
+5. ![](https://i.imgur.com/lWT9tb1.png)
+Equation: notB.notD
